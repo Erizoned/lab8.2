@@ -1,0 +1,65 @@
+body{
+    background-image: url(https://hips.hearstapps.com/hmg-prod/images/gettyimages-660714144-1516227341.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.registration{
+    width: 500px;
+    height: 500px;
+    margin-top: 150px;
+    background-color:  rgba(0, 0, 0, 0.5);
+    position: relative; 
+    overflow: visible; 
+}
+.img{
+    border-radius: 360px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.tx{
+    color: white;
+    position: absolute;
+    top: 145px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.p1{
+    position: absolute;
+    width: 80%;
+    background-color:  rgba(0, 0, 0, 0.5);
+    top: 200px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid white; 
+    outline: none;
+}
+.p2{
+    position: absolute;
+    width: 80%;
+    background-color:  rgba(0, 0, 0, 0.5);
+    top: 275px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid white; 
+    outline: none;
+}
+.p3{
+    background-color:  rgba(0, 0, 0, 0.5);
+    margin-top: 350px;  
+    color: white;
+}
+.p4{
+    width: 80%;
+    height: 50px;
+   margin-top: 50px;
+   background-color: green;
+   color: white; 
+}
